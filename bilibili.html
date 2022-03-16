@@ -7,6 +7,7 @@
     <link href="https://www.adalab.cn/admission.css" rel="stylesheet">
     <link href="style.css" rel="stylesheet">
     <script src="thumbnail.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/@waline/client"></script>
 </head>
 
 
@@ -48,6 +49,13 @@
 </article>
   
 </main>
+    <div id="waline"></div>
+  <script>
+    Waline({
+      el: '#waline',
+      serverURL: 'https://adalab-88lo5x192-cao-cyc.vercel.app',
+    });
+  </script>
 <footer><p>by <a href="https://www.zhihu.com/people/da-xiong-di-62-2" target="_blank">CYC</a> for <a href="https://www.adalab.cn" target="_blank">Adalab</a></p></footer>
 </body>
 
