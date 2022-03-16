@@ -37,9 +37,9 @@ h1,h2,h3,h4{
 }
 .div-adalab{
 	text-align:center;
-	border:2px solid #red;
+	border:2px solid #orange;
 	padding:10px 40px; 
-	background:#dddddd;
+	background:#red;
 	width:300px;
 	border-radius:50px;
 }
