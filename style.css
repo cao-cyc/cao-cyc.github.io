@@ -34,7 +34,7 @@ footer{
   position:absolute;
   z-index:2;
 }
-body{
+.l-body{
   -webkit-box-shadow:0px 3px 3px #c8c8c8 ;
 -moz-box-shadow:0px 3px 3px #c8c8c8 ;
 box-shadow:0px 3px 3px #c8c8c8 ;
