@@ -12,6 +12,7 @@ main{
 }
 aside{
   flex: 1;
+  background-color: purple;
 }
 article{
   flex: 3;
