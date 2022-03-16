@@ -1,3 +1,16 @@
 a:hover{
   color:green;
 }
+body{
+  flex-direction: column;
+}
+main{
+  flex-direction: row;
+  flex: auto;
+}
+aside{
+  flex: 1;
+}
+article{
+  flex: 3;
+}
