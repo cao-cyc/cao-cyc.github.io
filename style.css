@@ -75,7 +75,7 @@ article,header,aside,script{
 }
 header{
   flex: 1;
-  background-color: beige;
+  background-image: linear-gradient(beige,#f7f7f7);
 }
 .r-ditch{
   height: 30px;
